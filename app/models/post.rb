@@ -10,4 +10,6 @@ class Post < ActiveRecord::Base
     end
   end
 
+  # submitted to learn.co
+
 end
